@@ -1,6 +1,4 @@
-# raster_gis_calculation
-Functions for raster calculations in ArcGIS and Python
-
+# Functions for raster calculations in ArcGIS and Python
 
 This notebook shows how to use luminosity satellite imagery (freely available) to calculate access to electricity on a county level in Romania.
 This notebook shows several key ArcGIS Python functions such as:
